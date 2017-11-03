@@ -26,6 +26,8 @@ sudo usermod -a -G dialout mjk
 sudo npm i -g --unsafe-perm node-red-dashboard
 sudo npm i -g --unsafe-perm node-red-node-smooth
 
+sudo apt-get install mosquitto
+
 ----------------------
 
 notes:
